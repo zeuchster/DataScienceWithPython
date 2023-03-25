@@ -1,0 +1,24 @@
+Course Objective:
+- Use Data Science Libraries in Python - Numpy, Pandas & Matplotlib
+- Perform Data Preprocessing using Sci-Kit Learn
+- Use Machine Learing to perform various tasks - Regression, Classification, Clustering, etc.
+- Evaluate the Machine Learning Models using various evaluation methods
+
+Which models will you learn?
+- Linear Regresssion & Polynominal Regresssion Models
+- Decision Tree & Random Forest
+- SVM
+- K-Means Clustering
+
+By the end of this course, you will have the following skill sets:
+- Hands-on experience in performing various tasks in Machine Learning
+- Load the files from various sources nad perform the analysis
+- Create visulation for better data storytelling
+- Build predictive models which can be used for real-time datasets
+
+Course Content:
+- Introduction to Machine Learning
+- Working with Numpy, Pandas & Matplitlib Libraries
+- Scikit-Learn for Machine Learning
+- Machine Learnings Tasks - Regression, Classificatoin & Clustering
+- Advanced Topic - PCA for Dimensionality Reduction
