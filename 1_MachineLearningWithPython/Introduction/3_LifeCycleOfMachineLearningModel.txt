@@ -1,0 +1,10 @@
+Life Cycle of Machine Learning Project
+1) Load the Data
+2) Examine the Data
+3) Split the Dataset (train & test)
+4) Visualize the Data
+5) Data Pre-Processing
+    - Normalize (reduce scale from 0-1)
+    - converting categorical variables to numerical format (skilearn)
+6) Train the Models
+7) Evaluate the Models

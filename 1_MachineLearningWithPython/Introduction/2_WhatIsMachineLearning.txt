@@ -1,0 +1,13 @@
+What is Machine Learning 
+- Machine Learning s a branch of Artificial Intelligence (AI) which focusses on the use of data and algorithms to imitate the way that humans learn
+, gradually improving its accuracy
+
+How is it different from Traditional Programming?
+- Traditional Programming: Developers have to specify the patterns/rules in a data
+- Macine Learning: Computers find the pattern in the data - this makes our job easy
+
+Types of Machine Learning:
+- Supervised (unlabed (x) & labeled (y) data)
+- Unsupervised (unlabled (x) data only)
+- Semi-Supervised (large volume of unlabed (x) & small volume of labeled (y) data)
+- Re-inforcement (find a way to maximize rewards)
